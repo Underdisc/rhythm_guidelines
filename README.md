@@ -13,7 +13,7 @@ python create_guidelines.py <input_filename> <number_of_bars>
 ```
 
 # Example
-Here is the input and output respectively after running the following command.
+Here is the input and output respectively after running the following.
 ```
 python create_guidelines.py sample.png 32 
 ```
